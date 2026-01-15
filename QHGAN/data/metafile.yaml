@@ -1,0 +1,16 @@
+displayName: DBLP (Citation Network Dataset)
+license:
+- DBLP Custom
+mediaTypes:
+- Text
+paperUrl: http://keg.cs.tsinghua.edu.cn/jietang/publications/KDD08-Tang-et-al-ArnetMiner.pdf
+publishDate: "2008"
+publishUrl: https://www.aminer.org/citation
+publisher:
+- Tsinghua University
+- IBM
+tags:
+- Thesis
+taskTypes:
+- Graph Classification
+‌​‌‌​​​​‌​​​‌‌‌‌‌​​‌‌​‌​‌​​‌​​​‌‌​‌‌‌​‌‌‌​​‌‌‌‌​‌​​​‌​‌‌‌​​‌‌‌‌​‌​‌‌​​‌‌‌​​‌‌‌‌​‌​​‌‌‌​‌

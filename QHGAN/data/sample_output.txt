@@ -1,0 +1,23 @@
+文件结构:
+init: ndarray
+  形状: (10000, 8)
+train_init: ndarray
+  形状: (8000, 8)
+test_init: ndarray
+  形状: (2000, 8)
+labels: ndarray
+  形状: (10000,)
+train_labels: ndarray
+  形状: (8000,)
+test_labels: ndarray
+  形状: (2000,)
+n_qubit: int
+n_class: int
+feature_scaler: StandardScaler
+original_features: ndarray
+  形状: (10000, 3)
+years: ndarray
+  形状: (10000,)
+
+前10个标签(如果存在):
+[3 3 0 2 2 2 2 2 2 1]
